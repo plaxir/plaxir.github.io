@@ -1,0 +1,35 @@
+[
+  {
+  "sourceType": "Youtube",
+  "url": "https://www.youtube.com/",
+  "sources": [
+    {
+      "name": "SÖZCÜ TV",
+      "directory": "watch?v=ztmY_cCtUl0"
+    },
+    {
+      "name": "NTV",
+      "directory": "watch?v=pqq5c6k70kk"
+    },
+    {
+      "name": "Habertürk",
+      "directory": "watch?v=RNVNlJSUFoE"
+    }]
+  },
+  {
+  "sourceType": "URL",
+  "sources": [
+    {
+      "name": "Star Tv",
+      "directory": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7x8zv1ml13xz&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+    },
+    {
+      "name": "Show Tv",
+      "directory": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7x902coirt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
+    },
+    {
+      "name": "Kanal D",
+      "directory": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7x90bs669sdx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
+    }]
+  }
+]
