@@ -1,8 +1,8 @@
 [{
   "sourceType": "SiteEx",
   "url": "https://www.seir-sanduk.com/",
-  "defaultPatternExtractStream": "stream_url\":\"([^\"]+)\"",
-  "defaultPatternExtractExpire": "expires_in\":(\\d+)",
+  "defaultPatternExtractStream": "(https?://[^\"']*index\\.m3u8\\?e=[^\"']*)",
+  "defaultPatternExtractExpire": "e=(\\d+)",
   "sources": [
     {
       "name": "BTV",
