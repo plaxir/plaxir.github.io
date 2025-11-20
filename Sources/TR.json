@@ -157,7 +157,7 @@
     },
     {
       "name": "Kanal7",
-      "directory": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+      "directory": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
       "resolutionsHaveIndex": [3]
     },
     {
@@ -165,6 +165,11 @@
       "directoryFirst": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_",
       "directryEnd": "p.m3u8?&sid=7xiqwf6jtilc&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
       "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "CNNTurk",
+      "directory": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=CrbX60iIE_bhZTd63ieedw&e=1763663448",
+      "resolutionsHaveIndex": [3]
     }]
   }
 ]
