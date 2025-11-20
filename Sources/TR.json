@@ -18,18 +18,153 @@
   },
   {
   "sourceType": "URL",
+  "resolutions": [
+       {
+          "quality": "360P",
+          "directory": "360"
+        },
+        {
+          "quality": "SD",
+          "directory": "480"
+        },
+        {
+          "quality": "576P",
+          "directory": "576"
+        },
+        {
+          "quality": "HD",
+          "directory": "720"
+        },
+        {
+          "quality": "FULL HD",
+          "directory": "1080"
+        }
+  ],
   "sources": [
     {
       "name": "Star Tv",
-      "directory": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7x8zv1ml13xz&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+      "directoryFirst": "https://dogus.daioncdn.net/startv/startv_",
+      "directryEnd": "p.m3u8?&sid=7xi5207p2rgr&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
+      "resolutionsNotHaveIndex": [2,4]
     },
     {
       "name": "Show Tv",
-      "directory": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7x902coirt1p&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
+      "directoryFirst": "https://ciner.daioncdn.net/showtv/showtv_",
+      "directryEnd": "p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7xi5gryqez7b&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3",
+      "resolutionsNotHaveIndex": [2]
     },
     {
       "name": "Kanal D",
-      "directory": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7x90bs669sdx&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
+      "directoryFirst": "https://demiroren.daioncdn.net/kanald/kanald_",
+      "directryEnd": "p.m3u8?&sid=7xi7dyma84rk&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "Teve2",
+      "directoryFirst": "https://demiroren.daioncdn.net/teve2/teve2_",
+      "directryEnd": "p.m3u8?&sid=7xigov9i4s7e&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "Bloomberght",
+      "directoryFirst": "https://ciner.daioncdn.net/bloomberght/bloomberght_",
+      "directryEnd": "p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=7xih8hbl4631&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
+      "resolutionsNotHaveIndex": [2,4]
+    },
+    {
+      "name": "ShowMax",
+      "directoryFirst": "https://ciner-live.ercdn.net/showmax/showmax_",
+      "directryEnd": "p.m3u8?e=1763654826&st=MJ0y520ohAdl1Oh5MUEgEw&tv=1",
+      "resolutionsNotHaveIndex": [1,2]
+    },
+    {
+      "name": "A2",
+      "directoryFirst": "https://trkvz-live.ercdn.net/a2tv/a2tv_",
+      "directryEnd": "p.m3u8?st=7ZFc8v7TO_3X9rbQfhP-ww&e=1763693117",
+      "resolutionsNotHaveIndex": [2,4]
+    },
+    {
+      "name": "ATV",
+      "directoryFirst": "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_",
+      "directryEnd": "p.m3u8?st=ZdwIDJlgXHNkIObTG5l_-g&e=1763693399",
+      "resolutionsHaveIndex": [0,2]
+    },
+    {
+      "name": "HaberTurk",
+      "directoryFirst": "https://ciner.daioncdn.net/haberturktv/haberturktv_",
+      "directryEnd": "p.m3u8?sid=7xim9s8g1qna&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "CNBCe",
+      "directoryFirst": "https://cnbc-e.daioncdn.net/cnbc-e/cnbc-e_",
+      "directryEnd": "p.m3u8?e=1763685180&st=gG2SJVIFF-DEQ8L0tmJg-g&sid=7ximiok4vaij&app=3a3f6622-1025-4b00-af19-6df611ff07d3&ce=2",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRT1",
+      "directoryFirst": "https://trt.daioncdn.net/trt-1/master_",
+      "directryEnd": "p.m3u8?&sid=7xinhzu66jnd&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRT2",
+      "directoryFirst": "https://tv-trt2.medya.trt.com.tr/master_",
+      "directryEnd": ".m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRTHABER",
+      "directoryFirst": "https://tv-trthaber.medya.trt.com.tr/master_",
+      "directryEnd": ".m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRTMUZIK",
+      "directoryFirst": "https://tv-trtmuzik.medya.trt.com.tr/master_",
+      "directryEnd": ".m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRTTURK",
+      "directoryFirst": "https://tv-trtturk.medya.trt.com.tr/master_",
+      "directryEnd": ".m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TRTeba",
+      "directoryFirst": "https://tv-e-okul01.medya.trt.com.tr/master_",
+      "directryEnd": ".m3u8",
+      "resolutionsHaveIndex": [3]
+    },
+    {
+      "name": "NOW",
+      "directoryFirst": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_",
+      "directryEnd": "p.m3u8?e=1763708657&st=ieOzYCS_tuXrun8-qs3u5g",
+      "resolutionsNotHaveIndex": [2,4]
+    },
+    {
+      "name": "HalkTV",
+      "directoryFirst": "https://halktv.daioncdn.net/halktv/halktv_",
+      "directryEnd": "p.m3u8?sid=7xiq0w8imkq1&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TV360",
+      "directoryFirst": "https://turkmedya-live.ercdn.net/tv360/tv360_",
+      "directryEnd": "p.m3u8",
+      "resolutionsNotHaveIndex": [1,2]
+    },
+    {
+      "name": "Kanal7",
+      "directory": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8"
+      "resolutionsHaveIndex": [3]
+    },
+    {
+      "name": "Beyaztv",
+      "directoryFirst": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_",
+      "directryEnd": "p.m3u8?&sid=7xiqwf6jtilc&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+      "resolutionsNotHaveIndex": [2]
     }]
   }
 ]
