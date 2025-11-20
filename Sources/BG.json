@@ -5,263 +5,263 @@
   "defaultPatternExtractExpire": "e=(\\d+)",
   "sources": [
     {
-      "name": "BTV",
+      "name": "BTV - HD",
       "directory": ""
     },
     {
-      "name": "BNT 1",
+      "name": "BNT 1 - HD",
       "directory": "hd-bnt-1-hd-online"
     },
     {
-      "name": "BNT 2",
+      "name": "BNT 2 - SD",
       "directory": "bnt-2-online"
     },
     {
-      "name": "BNT 3",
+      "name": "BNT 3 - HD",
       "directory": "hd-bnt-3-hd-online"
     },
     {
-      "name": "BNT 4",
+      "name": "BNT 4 - SD",
       "directory": "bnt-4-online"
     },
     {
-      "name": "NOVA",
+      "name": "NOVA - HD",
       "directory": "hd-nova-tv-hd-online"
     },
     {
-      "name": "BTV ACTION",
+      "name": "BTV ACTION - HD",
       "directory": "hd-btv-action-hd-online"
     },
     {
-      "name": "BTV CINEMA",
+      "name": "BTV CINEMA - SD",
       "directory": "btv-cinema-online"
     },
     {
-      "name": "BTV COMEDY",
+      "name": "BTV COMEDY - SD",
       "directory": "btv-comedy-online"
     },
     {
-      "name": "BTV STORY",
+      "name": "BTV STORY - SD",
       "directory": "btv-story-online"
     },
     {
-      "name": "BULGARIA ON AIR",
+      "name": "BULGARIA ON AIR - SD",
       "directory": "bulgaria-on-air-online"
     },
     {
-      "name": "CARTOON NETWORK",
+      "name": "CARTOON NETWORK - SD",
       "directory": "cartoon-network-online"
     },
     {
-      "name": "CITY TV",
+      "name": "CITY TV - SD",
       "directory": "city-tv-online"
     },
     {
-      "name": "CODE FASHION TV",
+      "name": "CODE FASHION TV - HD",
       "directory": "hd-code-fashion-tv-hd-online"
     },
     {
-      "name": "DIEMA FAMILY",
+      "name": "DIEMA FAMILY - SD",
       "directory": "diema-family-online"
     },
     {
-      "name": "DIEMA SPORT",
+      "name": "DIEMA SPORT - HD",
       "directory": "hd-diema-sport-hd-online"
     },
     {
-      "name": "DIEMA SPORT 2",
+      "name": "DIEMA SPORT 2 - HD",
       "directory": "hd-diema-sport-2-hd-online"
     },
     {
-      "name": "DIEMA SPORT 3",
+      "name": "DIEMA SPORT 3 - HD",
       "directory": "hd-diema-sport-3-hd-online"
     },
     {
-      "name": "DIEMA",
+      "name": "DIEMA - SD",
       "directory": "diema-online"
     },
     {
-      "name": "DISNEY CHANNEL",
+      "name": "DISNEY CHANNEL - SD",
       "directory": "disney-channel-online"
     },
     {
-      "name": "DISCOVERY CHANNEL",
+      "name": "DISCOVERY CHANNEL - HD",
       "directory": "hd-discovery-channel-hd-online"
     },
     {
-      "name": "DSTV",
+      "name": "DSTV - SD",
       "directory": "dstv-online"
     },
     {
-      "name": "E KIDS",
+      "name": "E KIDS - SD",
       "directory": "e-kids-online"
     },
     {
-      "name": "EPIC DRAMA",
+      "name": "EPIC DRAMA - HD",
       "directory": "hd-epic-drama-hd-online"
     },
     {
-      "name": "EUROSPORT 1",
+      "name": "EUROSPORT 1 - HD",
       "directory": "hd-eurosport-1-hd-online"
     },
     {
-      "name": "EUROSPORT 2",
+      "name": "EUROSPORT 2 - HD",
       "directory": "hd-eurosport-2-hd-online"
     },
     {
-      "name": "EURONEWS BULGARIA",
+      "name": "EURONEWS BULGARIA - SD",
       "directory": "euronews-bulgaria-online"
     },
     {
-      "name": "EVROKOM",
+      "name": "EVROKOM - SD",
       "directory": "evrokom-online"
     },
     {
-      "name": "FOLKLOR TV",
+      "name": "FOLKLOR TV - SD",
       "directory": "folklor-tv-online"
     },
     {
-      "name": "FOOD NETWORK",
+      "name": "FOOD NETWORK - HD",
       "directory": "hd-food-network-hd-online"
     },
     {
-      "name": "STAR CRIME",
+      "name": "STAR CRIME - HD",
       "directory": "hd-star-crime-hd-online"
     },
     {
-      "name": "STAR CHANNEL",
+      "name": "STAR CHANNEL - HD",
       "directory": "hd-star-channel-hd-online"
     },
     {
-      "name": "STAR LIFE",
+      "name": "STAR LIFE - HD",
       "directory": "hd-star-life-hd-online"
     },
     {
-      "name": "ID XTRA",
+      "name": "ID XTRA - HD",
       "directory": "hd-id-xtra-hd-online"
     },
     {
-      "name": "KANAL 3",
+      "name": "KANAL 3 - SD",
       "directory": "kanal-3-online"
     },
     {
-      "name": "KINO NOVA",
+      "name": "KINO NOVA - SD",
       "directory": "kino-nova-online"
     },
     {
-      "name": "MAX SPORT 1",
+      "name": "MAX SPORT 1 - HD",
       "directory": "hd-max-sport-1-hd-online"
     },
     {
-      "name": "MAX SPORT 2",
+      "name": "MAX SPORT 2 - HD",
       "directory": "hd-max-sport-2-hd-online"
     },
     {
-      "name": "MAX SPORT 3",
+      "name": "MAX SPORT 3 - HD",
       "directory": "hd-max-sport-3-hd-online"
     },
     {
-      "name": "MAX SPORT 4",
+      "name": "MAX SPORT 4 - HD",
       "directory": "hd-max-sport-4-hd-online"
     },
     {
-      "name": "NAT GEO",
+      "name": "NAT GEO - HD",
       "directory": "hd-nat-geo-hd-online"
     },
     {
-      "name": "NAT GEO WILD",
+      "name": "NAT GEO WILD - HD",
       "directory": "hd-nat-geo-wild-hd-online"
     },
     {
-      "name": "NICK JR",
+      "name": "NICK JR - SD",
       "directory": "nick-jr-online"
     },
     {
-      "name": "NICKELODEON",
+      "name": "NICKELODEON - SD",
       "directory": "nickelodeon-online"
     },
     {
-      "name": "NICKTOONS",
+      "name": "NICKTOONS - SD",
       "directory": "nicktoons-online"
     },
     {
-      "name": "NOVA NEWS",
+      "name": "NOVA NEWS - HD",
       "directory": "hd-nova-news-hd-online"
     },
     {
-      "name": "NOVA SPORT",
+      "name": "NOVA SPORT - HD",
       "directory": "hd-nova-sport-hd-online"
     },
     {
-      "name": "PLANETA FOLK",
+      "name": "PLANETA FOLK - SD",
       "directory": "planeta-folk-online"
     },
     {
-      "name": "PLANETA",
+      "name": "PLANETA - HD",
       "directory": "hd-planeta-hd-online"
     },
     {
-      "name": "RING BG",
+      "name": "RING BG - HD",
       "directory": "hd-ring-bg-hd-online"
     },
     {
-      "name": "RODINA TV",
+      "name": "RODINA TV - SD",
       "directory": "rodina-tv-online"
     },
     {
-      "name": "78 TV",
+      "name": "78 TV - HD",
       "directory": "hd-78-tv-hd-online"
     },
     {
-      "name": "SKAT",
+      "name": "SKAT - SD",
       "directory": "skat-online"
     },
     {
-      "name": "THE VOICE",
+      "name": "THE VOICE - SD",
       "directory": "the-voice-online"
     },
     {
-      "name": "TIANKOV TV",
+      "name": "TIANKOV TV - SD",
       "directory": "tiankov-tv-online"
     },
     {
-      "name": "TLC",
+      "name": "TLC - SD",
       "directory": "tlc-online"
     },
     {
-      "name": "TRAVEL CHANNEL",
+      "name": "TRAVEL CHANNEL - HD",
       "directory": "hd-travel-channel-hd-online"
     },
     {
-      "name": "TRAVEL TV",
+      "name": "TRAVEL TV - SD",
       "directory": "travel-tv-online"
     },
     {
-      "name": "TV 1",
+      "name": "TV 1 - SD",
       "directory": "tv-1-online"
     },
     {
-      "name": "VTK",
+      "name": "VTK - SD",
       "directory": "vtk-online"
     },
     {
-      "name": "24 KITCHEN",
+      "name": "24 KITCHEN - HD",
       "directory": "hd-24-kitchen-hd-online"
     },
     {
-      "name": "AXN",
+      "name": "AXN - SD",
       "directory": "axn-online"
     },
     {
-      "name": "AXN BLACK",
+      "name": "AXN BLACK - SD",
       "directory": "axn-black-online"
     },
     {
-      "name": "AXN WHITE",
+      "name": "AXN WHITE - SD",
       "directory": "axn-white-online"
     },
     {
-      "name": "BLOOMBERG TV",
+      "name": "BLOOMBERG TV - SD",
       "directory": "bloomberg-tv-online"
     }
   ]
