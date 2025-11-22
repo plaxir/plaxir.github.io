@@ -78,10 +78,28 @@
       "resolutionsNotHaveIndex": [1,2]
     },
     {
+      "name": "TBMM",
+      "directoryFirst": "https://meclistv-live.ercdn.net/meclistv/meclistv_",
+      "directryEnd": "p.m3u8?e=&st=",
+      "resolutionsHaveIndex": [0,3]
+    },
+    {
       "name": "A2",
-      "directoryFirst": "https://trkvz-live.ercdn.net/a2tv/a2tv_",
-      "directryEnd": "p.m3u8?st=7ZFc8v7TO_3X9rbQfhP-ww&e=1763693117",
-      "resolutionsNotHaveIndex": [2,4]
+      "directoryFirst": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_",
+      "directryEnd": "p.m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TV8",
+      "directoryFirst": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_",
+      "directryEnd": "p.m3u8",
+      "resolutionsNotHaveIndex": [2]
+    },
+    {
+      "name": "TV100",
+      "directoryFirst": "https://ensonhaber-live.ercdn.net/tv100/tv100_",
+      "directryEnd": "p.m3u8",
+      "resolutionsNotHaveIndex": [2]
     },
     {
       "name": "ATV",
