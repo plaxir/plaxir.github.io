@@ -4,16 +4,100 @@
   "url": "https://www.youtube.com/",
   "sources": [
     {
-      "name": "SÖZCÜ TV",
+      "name": "SÖZCÜ TV - Y",
       "directory": "watch?v=ztmY_cCtUl0"
     },
     {
-      "name": "NTV",
+      "name": "NTV - Y",
       "directory": "watch?v=pqq5c6k70kk"
     },
     {
-      "name": "Habertürk",
+      "name": "Habertürk - Y",
       "directory": "watch?v=RNVNlJSUFoE"
+    },
+    {
+      "name": "ATV - Y",
+      "directory": "watch?v=M-oU2PiJ7Z4"
+    },
+    {
+      "name": "SHOW - Y",
+      "directory": "watch?v=ouuCjEjyKVI"
+    },
+    {
+      "name": "STAR - Y",
+      "directory": "watch?v=82O6yOy_XwE"
+    },
+    {
+      "name": "KANAL D - Y",
+      "directory": "watch?v=UBRbgUTeLNo"
+    },
+    {
+      "name": "CNN TURK - Y",
+      "directory": "watch?v=6N8_r2uwLEc"
+    },
+    {
+      "name": "HALK TV - Y",
+      "directory": "watch?v=VBU0QX6brew"
+    },
+    {
+      "name": "TV100 - Y",
+      "directory": "watch?v=6g_DvD8e2T0"
+    },
+    {
+      "name": "HABER GLOBAL TV - Y",
+      "directory": "watch?v=EqoCJ8BPxtE"
+    },
+    {
+      "name": "TJK TV - Y",
+      "directory": "watch?v=g89RQMJtK6E"
+    },
+    {
+      "name": "TGRT HABER - Y",
+      "directory": "watch?v=TsB0xYOH0AU"
+    },
+    {
+      "name": "ÜLKE TV - Y",
+      "directory": "watch?v=xj4M0z7gM0c"
+    },
+    {
+      "name": "A HABER - Y",
+      "directory": "watch?v=nmY9i63t6qo"
+    },
+    {
+      "name": "TRT HABER - Y",
+      "directory": "watch?v=rD3bKBMXKKY"
+    },
+    {
+      "name": "SHOW MAX - Y",
+      "directory": "watch?v=Y3vGHFrsqrs"
+    },
+    {
+      "name": "ULUSAL KANAL TV - Y",
+      "directory": "watch?v=dK96AZbCns0"
+    },
+    {
+      "name": "TVNET - Y",
+      "directory": "watch?v=ZMfC419lAVc"
+    },
+    {
+      "name": "VAV TV - Y",
+      "directory": "watch?v=guiHVhRhLBQ"
+    },
+    {
+      "name": "NILOYA TV - Y",
+      "directory": "watch?v=g3R4J0YC2Dk"
+    },
+    {
+      "name": "24 TV - Y",
+      "directory": "watch?v=6B-nPOdP720"
+    },
+    {
+      "name": "DIYANET TV - Y",
+      "directory": "watch?v=I372ZjvP1DE"
+    },
+    {
+      "name": "SIFIR TV - Y",
+      "directory": "watch?v=JCSOAmBeXnY"
     }]
   },
   {
