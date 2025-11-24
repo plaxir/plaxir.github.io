@@ -247,8 +247,9 @@
     },
     {
       "name": "NOW",
-      "directoryFirst": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_",
-      "directryEnd": "p.m3u8?e=1763708657&st=ieOzYCS_tuXrun8-qs3u5g",
+      "defaultPatternExtractStream": "(https?://[^\\s'\"]*playlist\\\\.m3u8[^\\s'\"]*)",
+      "defaultPatternExtractExpire": "e=(\\d+)",
+      "directryEnd": "https://www.nowtv.com.tr/canli-yayin",
       "resolutionsNotHaveIndex": [2,4]
     },
     {
