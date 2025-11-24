@@ -247,7 +247,7 @@
     },
     {
       "name": "NOW",
-      "defaultPatternExtractStream": "(https?://[^\\s'\"]*playlist\\\\.m3u8[^\\s'\"]*)",
+      "defaultPatternExtractStream": "'([^']*playlist\\.m3u8[^']*)'",
       "defaultPatternExtractExpire": "e=(\\d+)",
       "directryEnd": "https://www.nowtv.com.tr/canli-yayin",
       "resolutionsNotHaveIndex": [2,4]
