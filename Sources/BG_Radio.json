@@ -1,0 +1,122 @@
+[
+  {
+  "sourceType": "URL",
+  "sources": [
+    {
+      "name": "NJOY",
+      "directory": "https://cdn.bweb.bg/radio/njoy.mp3"
+    },
+    {
+      "name": "Veronika",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_VERONIKAAAC_L.aac?dist=WEBSITEBG&dist=DESKTOP"
+    },
+    {
+      "name": "Nova",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_NOVAAAC_L.aac?dist=WEBSITEBG&dist=DESKTOP"
+    },
+    {
+      "name": "1Rock",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_L.aac?dist=WEBSITEBG&dist=DESKTOP"
+    },
+    {
+      "name": "Avto",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac?dist=DESKTOP"
+    },
+    {
+      "name": "1",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L.aac?dist=WEBSITEBG&dist=DESKTOP"
+    },
+    {
+      "name": "NRJ ENERGY",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "NRJ 90s Only",
+      "directory": "https://play.global.audio/energy-90s.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "NRJ Hits 2000",
+      "directory": "https://play.global.audio/energy-00s.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "City",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "NOVA NEWS",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_NOVANEWSAAC_L.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "6 bez 10",
+      "directory": "https://play.global.audio/6bez10.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "BG ESTRADA",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "BG",
+      "directory": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_L.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "Horizont",
+      "directory": "https://play.global.audio/testb.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "City Hip Hop & RnB",
+      "directory": "https://play.global.audio/cityrab.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "City Latin",
+      "directory": "https://play.global.audio/citylatin.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "Vanilla",
+      "directory": "https://play.global.audio/vanilla.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "Cafe",
+      "directory": "https://play.global.audio/cafe.aac?dist=RADIOPLAY"
+    },
+    {
+      "name": "Veselina",
+      "directory": "https://nova-radio.neterra.tv/veselina"
+    },
+    {
+      "name": "Darik",
+      "directory": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3"
+    },
+    {
+      "name": "The Voice",
+      "directory": "https://nova-radio.neterra.tv/thevoice"
+    },
+    {
+      "name": "The Voice of BG",
+      "directory": "https://nova-radio.neterra.tv/voiceofbg"
+    },
+    {
+      "name": "Vitosha",
+      "directory": "https://nova-radio.neterra.tv/vitosha"
+    },
+    {
+      "name": "Magic FM",
+      "directory": "https://nova-radio.neterra.tv/magicfm"
+    },
+    {
+      "name": "Veselina Folk",
+      "directory": "https://nova-radio.neterra.tv/veselinafolk"
+    },
+    {
+      "name": "Veselina Retro",
+      "directory": "https://nova-radio.neterra.tv/veselinaretro"
+    },
+    {
+      "name": "Kiss",
+      "directory": "https://nova-radio.neterra.tv/kiss"
+    },
+    {
+      "name": "Magic Party 90s",
+      "directory": "https://nova-radio.neterra.tv/magicparty"
+    }
+  ]}
+]
