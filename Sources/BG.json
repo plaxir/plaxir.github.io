@@ -1,6 +1,7 @@
 [{
   "sourceType": "SiteEx",
   "url": "https://seirsanduk.us",
+  "mediaProxy": true,
   "defaultPatternExtractStream": "(https?://[^\"']*index\\.m3u8\\?e=[^\"']*)",
   "defaultPatternExtractExpire": "e=(\\d+)",
   "sources": [
