@@ -49,8 +49,8 @@
       "directory": "btv-cinema-online"
     },
     {
-      "name": "BTV COMEDY - SD",
-      "directory": "btv-comedy-online"
+      "name": "BTV COMEDY - HD",
+      "directory": "hd-btv-comedy-online-hd"
     },
     {
       "name": "BTV STORY - SD",
@@ -73,8 +73,8 @@
       "directory": "hd-code-fashion-tv-hd-online"
     },
     {
-      "name": "DIEMA FAMILY - SD",
-      "directory": "diema-family-online"
+      "name": "DIEMA FAMILY - HD",
+      "directory": "hd-diema-family-online-hd"
     },
     {
       "name": "DIEMA SPORT - HD",
@@ -89,8 +89,8 @@
       "directory": "hd-diema-sport-3-hd-online"
     },
     {
-      "name": "DIEMA - SD",
-      "directory": "diema-online"
+      "name": "DIEMA - HD",
+      "directory": "hd-diema-hd"
     },
     {
       "name": "DISNEY CHANNEL - SD",
@@ -157,8 +157,8 @@
       "directory": "kanal-3-online"
     },
     {
-      "name": "KINO NOVA - SD",
-      "directory": "kino-nova-online"
+      "name": "KINO NOVA - HD",
+      "directory": "hd-kino-nova-online-hd"
     },
     {
       "name": "MAX SPORT 1 - HD",
