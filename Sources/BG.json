@@ -1,6 +1,6 @@
 [{
   "sourceType": "SiteEx",
-  "url": "https://seirsanduk.online/",
+  "url": "https://seirsanduk.us/",
   "mediaProxy": false,
   "width": 1280,
   "height": 720,
@@ -10,7 +10,16 @@
     {
       "name": "BTV - HD",
       "directory": ""
-    },
+    }]},
+  {
+  "sourceType": "SiteEx",
+  "url": "https://seirsanduk.online/",
+  "mediaProxy": false,
+  "width": 1280,
+  "height": 720,
+  "defaultPatternExtractStream": "(https?://[^\"']*index\\.m3u8\\?e=[^\"']*)",
+  "defaultPatternExtractExpire": "e=(\\d+)",
+  "sources": [
     {
       "name": "BNT 1 - HD",
       "directory": "hd-bnt-1-hd-online"
